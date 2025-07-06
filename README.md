@@ -16,7 +16,7 @@ Une application web simple pour gérer vos tâches quotidiennes.
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-pseudo/todo-list.git
+   git clone https://github.com/Ayoubhll/todo-list.git
 
 
 ## Capture d’écran
